@@ -4,3 +4,4 @@ Classifying the dialogues speech from the meeting transcript using transformer b
 #Finetuned model with AMI corpus can be downloaded from below given Gdrive link.
 gdrive link : https://drive.google.com/file/d/1ckZ50JtitJ0qbWHbD9RfUqPSZ3lm8KQI/view?usp=sharing
 
+Prepared AMI meeting corpus data is saved as sent_annot.pkl which can be directly used for training.
