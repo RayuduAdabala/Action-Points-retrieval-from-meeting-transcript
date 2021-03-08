@@ -1,4 +1,4 @@
-# Action-Points-retrival-from-meeting-transcript
+# Action-Points-retrieval-from-meeting-transcript
 Classifying the dialogues speech from the meeting transcript using transformer based XLNet pretrained model fine tuning with AMI meeting corpus
 
 #Finetuned model with AMI corpus can be downloaded from below given Gdrive link.
