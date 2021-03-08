@@ -2,7 +2,9 @@
 Classifying the dialogues speech from the meeting transcript using transformer based XLNet pretrained model fine tuning with AMI meeting corpus
 Action points retrieval system
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 Use case: Action point’s retrieval from meeting transcript and extracted points will be summarized and sent to all the participants.
+
 
 Implementation:
 Data for training and testing the model is taken from AMI meeting corpus and data in the xml is prepared accordingly for training multi label text classification model.
