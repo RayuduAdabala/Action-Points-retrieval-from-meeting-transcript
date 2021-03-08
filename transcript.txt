@@ -1,0 +1,9 @@
+manager : hi guys, how are you all?
+developer : fine boss
+tester : fine boss
+manager : what is the status of the project?
+developer : 4 modules have been completed, 5th module is on going in the final phase.
+tester : test scripts are also ready.
+manager : By end of this month 5th module should be completed and ready to give for user acceptance testing.
+developer : we will do it boss.
+tester : yes boss
