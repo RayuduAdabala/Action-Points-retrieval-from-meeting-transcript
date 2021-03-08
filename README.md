@@ -10,7 +10,7 @@ For Multi label text classification we have used XLNet transformer based model f
 
 XLNet is an extension of the Transformer-XL model pre-trained using an autoregressive method to learn bidirectional contexts by maximizing the expected likelihood over all permutations of the input sequence factorization order.
 
-
+Dialogue summarization is still a challenging task in NLP community. In this we are still trying to implement dialogue summarization. 
 
 #Finetuned model with AMI corpus can be downloaded from below given Gdrive link.
 gdrive link : https://drive.google.com/file/d/1ckZ50JtitJ0qbWHbD9RfUqPSZ3lm8KQI/view?usp=sharing
